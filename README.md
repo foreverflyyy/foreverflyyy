@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Nikita <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Fullstack developer and computer science student</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+developer+and+computer+science+student)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Fullstack+developer+and+.+.+.;computer+science+student!" alt="Typing SVG" /></a>
 
 ## Connect with me
 
@@ -25,7 +26,7 @@ Whether it's developing a new product, improving an existing one, or optimizing 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,graphql,webpack,nodejs,nestjs,cs,firebase,mongodb,supabase,docker)](https://skillicons.dev) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverflyyy&layout=compact)](https://github.com/foreverflyyy/github-readme-stats)
 
 <div align="center">
   
