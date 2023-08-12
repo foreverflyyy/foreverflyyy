@@ -27,8 +27,6 @@ Whether it's developing a new product, improving an existing one, or optimizing 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,graphql,webpack,nodejs,nestjs,cs,firebase,mongodb,supabase,docker)](https://skillicons.dev) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foreverflyyy&layout=compact)](https://github.com/foreverflyyy/github-readme-stats)
-
 <div align="center">
   
 ```diff
