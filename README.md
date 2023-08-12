@@ -1,6 +1,4 @@
-# Nikita Ushakov
-
-**`Fullstack developer`**
+# Nikita Ushakov (Fullstack developer)
 
 ## Connect with me
 
@@ -23,14 +21,7 @@ Whether it's developing a new product, improving an existing one, or optimizing 
 
 ### 🧰 Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,graphql,webpack,nodejs,nestjs,cs,mssql,firebase,mongodb,supabase,docker)](https://skillicons.dev) 
-
-### Relavent Projects
-
-| Full Stack Projects |
-| ------------------- |
-| [Chat realtime](https://github.com/foreverflyyy/next-chat-realtime)|
-| [Spotify clone](https://github.com/foreverflyyy/next-nest-music-platform)|
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,graphql,webpack,nodejs,nestjs,cs,firebase,mongodb,supabase,docker)](https://skillicons.dev) 
 
 <div align="center">
   
