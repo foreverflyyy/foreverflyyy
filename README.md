@@ -1,4 +1,6 @@
-# Nikita Ushakov (Fullstack developer)
+<h1 align="center">Hi there, I'm Nikita <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Fullstack developer and computer science student</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+developer+and+computer+science+student)](https://git.io/typing-svg)
 
 ## Connect with me
 
@@ -22,6 +24,8 @@ Whether it's developing a new product, improving an existing one, or optimizing 
 ### 🧰 Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,graphql,webpack,nodejs,nestjs,cs,firebase,mongodb,supabase,docker)](https://skillicons.dev) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   
