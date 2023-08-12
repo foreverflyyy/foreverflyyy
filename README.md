@@ -30,13 +30,8 @@ Whether it's developing a new product, improving an existing one, or optimizing 
 <div align="center">
   
 ```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@  Programming isn't about what you know  @
-@  It's about what you can figure out     @
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-.----------------------------. 
-| while( !succed=try() )     |
-'----------------------------' 
+Programming isn't about what you know 
+It's about what you can figure out
 ```
   
 </div>
