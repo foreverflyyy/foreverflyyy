@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nikita <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=4000&center=true&vCenter=true&width=600&height=40&lines=Fullstack+developer+and+computer+science+student!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=4000&center=true&vCenter=true&width=600&height=40&lines=Fullstack+developer+and+computer+science+student!" alt="Typing SVG" /></a>
 </div>
 
 ## Connect with me
