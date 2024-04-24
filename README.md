@@ -20,8 +20,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,graphql,webpack,nodejs,nestjs,mongodb,docker)](https://skillicons.dev) 
 
 <div align="center">
+  
 ```diff
 Programming isn't about what you know 
 It's about what you can figure out
 ```
+  
 </div>
