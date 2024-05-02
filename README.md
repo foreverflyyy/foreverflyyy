@@ -22,8 +22,7 @@
 <div align="center">
   
 ```diff
-Programming isn't about what you know 
-It's about what you can figure out
+Code is like humor. When you have to explain it, it’s bad.
 ```
   
 </div>
